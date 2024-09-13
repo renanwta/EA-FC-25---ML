@@ -3,9 +3,13 @@
 # 2 Tools
 # 3 Main Features and Target
 # 4 Project's Goals
-  The project part in two main steps, the first one is the webscrapping part and the second one is the ML part
-  4.1 Webscrapping
-    The first thing first, we need to get our data before to make some analysis, so for this we create a script to make a webscrap on the 
+  The project part in two main steps, the first one is the webscrapping part and the second one is the ML part:
+  
+  4.1 - Webscrapping
+    The first thing first, we need to get our data before to be able to make any analysis, so for this we create a script to make a webscrap on the website of EA FC 25 where there is a part of the website that we have a ranking of all players with your main stats,the scrip will get main stats of the players like Overall, Pace, Shoot, Pass, Drible, Defense and Physics.
+
+  4.2 - Machine Learning
+  
 
 # 5 Structure
   5.1 Structure of Crisp-DM
